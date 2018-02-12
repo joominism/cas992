@@ -5,3 +5,4 @@ matplotlib
 nose
 cm
 scipy
+nistats
