@@ -6,3 +6,5 @@ nose
 cm
 scipy
 nistats
+patsy
+boto3
