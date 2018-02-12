@@ -1,2 +1,8 @@
 seaborn
 nilearn
+scikit-learn
+matplotlib
+nose
+cm
+scipy
+python-matplotlib
