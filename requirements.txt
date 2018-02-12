@@ -5,4 +5,3 @@ matplotlib
 nose
 cm
 scipy
-python-matplotlib
