@@ -1,3 +1,0 @@
-git clone requirements.txt
-cd nistats
-python setup.py install --user
